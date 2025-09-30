@@ -8,7 +8,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmorilla/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmorilla/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jmorillabarrena@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/TUUSUARIO?style=social&label=Follow)](https://github.com/JavierMB91?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=JavierMB91&color=blue&style=flat-square)
