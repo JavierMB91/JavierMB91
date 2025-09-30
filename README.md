@@ -1,4 +1,4 @@
-<img align="left" width="130" height="130" alt="Javier Morilla" src="./mi_foto.png" />
+<img align="left" width="130" height="130" alt="Javier Morilla" src="./assets/avatar.png" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
