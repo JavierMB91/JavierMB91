@@ -20,7 +20,7 @@
 Hola, soy **Javier Morilla Barrena**, estudiante del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, que finalizaré en **junio de 2026**.  
  
 
-🖥️ Experiencia con Java, JavaScript, HTML, CSS y más.  
+🖥️ Experiencia con Java, JavaScript, HTML, CSS, PHP y más.  
 🧠 Apasionado por el aprendizaje constante.  
 🤝 Buscando crecer profesionalmente y colaborar en proyectos interesantes.  
 
