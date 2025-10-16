@@ -64,7 +64,6 @@ Hola, soy **Javier Morilla Barrena**, estudiante del **Ciclo Formativo de Grado 
 
 ### 🚀 Objetivos actuales
 
-- 🌱 Aprendiendo **React** y **Spring Boot**.  
 - 🔨 Desarrollando proyectos personales y colaborativos.  
 - 💼 Preparándome para entrar al mundo laboral como **desarrollador junior**.  
 
